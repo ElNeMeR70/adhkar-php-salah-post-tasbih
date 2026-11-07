@@ -1,0 +1,9 @@
+{
+  "name": "elnemer70/adhkar-php-salah-post-tasbih",
+  "description": "Post-Fard Salah Tasbih (33x3 + Tamam Al-Mi'ah) State Counter (مسبحة الأذكار المشروعة بعد الصلوات المفروضة)",
+  "type": "project",
+  "license": "MIT",
+  "require": {
+    "php": ">=8.1"
+  }
+}
